@@ -1,0 +1,5 @@
+# Node modules
+node_modules/
+
+# If yarn create error file
+yarn-error.log
